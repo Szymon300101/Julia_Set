@@ -20,8 +20,19 @@ dostępnych z poziomu klawiatury:
   
 Na ekranie widoczny jest podgląd powyższych parametrów.  
   
+Uwagi dot. używania programu:  
+- Czasami program się wiesza, i trzeba zamknąć okno alt+F4.
+- z poziomu klawiatury parametry można zmieniać tylko co 0.001,
+ dlatego jeżeli urzytkownik chce ustawić jakieś konkretne wartości,
+ warto to zrobić w programie przed skompilowaniem.
 
   
 Przykładowe kadry z programu:  
 c=0.112 + 0.583i  
 ![](Pic_01.jpg)  
+c=0.71 + 0.601i  
+![](Pic_04.jpg)
+![](Pic_05.jpg)  
+![](Pic_06.jpg)  
+c=0.228 + 0.554i  
+![](Pic_07.jpg)  

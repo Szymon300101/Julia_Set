@@ -21,11 +21,16 @@ dostępnych z poziomu klawiatury:
 Na ekranie widoczny jest podgląd powyższych parametrów.  
   
 Uwagi dot. używania programu:  
-- Czasami program się wiesza, i trzeba zamknąć okno alt+F4.
-- z poziomu klawiatury parametry można zmieniać tylko co 0.001,
- dlatego jeżeli urzytkownik chce ustawić jakieś konkretne wartości,
- warto to zrobić w programie przed skompilowaniem.
-
+- Czasami program się wiesza, i trzeba zamknąć okno alt+F4. (można go tak zawsze zamykać)  
+- z poziomu klawiatury parametry można zmieniać tylko co 0.001,  
+ dlatego jeżeli urzytkownik chce ustawić jakieś konkretne wartości,  
+ warto to zrobić w programie przed skompilowaniem.  
+  
+Wersja z dopiskiem "pix" to ten sam program, działający  
+jednak na wbudowaniej w Processinga tablicy pixels[], co  
+przyspiesza działanie programu. Ta wersja może mieć błędy,  
+ponieważ była mniej testowana.
+  
   
 Przykładowe kadry z programu:  
 c=0.112 + 0.583i  
